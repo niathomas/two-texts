@@ -19,11 +19,11 @@ Save each text into a separate file under the "data" folder -- "one.txt" or "two
 
 ### Text 1
 
-<!-- replace this with your citation -->
+<a href="https://quickshortstory.wordpress.com/2011/09/26/the-lover-of-poetry/#comment-185">The Lover of Poetry</a>
 
 ### Text 2
 
-<!-- replace this with your citation -->
+<a href="http://www.buzzfeed.com/erinlarosa/8-stories-of-everyday-sexism-experienced-by-female-journalis#.vtgxzdzop"Stories of Everyday Sexism</a>
 
 
 Next, write instructions in program.txt. They should be step-by-step instructions that can be applied to just about any text to change it into something different. A simple example of three steps would be:
