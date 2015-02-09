@@ -23,7 +23,7 @@ Save each text into a separate file under the "data" folder -- "one.txt" or "two
 
 ### Text 2
 
-<a href="http://www.buzzfeed.com/erinlarosa/8-stories-of-everyday-sexism-experienced-by-female-journalis#.vtgxzdzop"8 Stories of Everyday Sexism</a>
+<a href="http://www.buzzfeed.com/erinlarosa/8-stories-of-everyday-sexism-experienced-by-female-journalis#.vtgxzdzop"Eight Stories of Everyday Sexism</a>
 
 
 Next, write instructions in program.txt. They should be step-by-step instructions that can be applied to just about any text to change it into something different. A simple example of three steps would be:
